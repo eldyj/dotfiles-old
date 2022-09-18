@@ -1,0 +1,10 @@
+prompt=
+show=drun
+columns=2
+allow_images=true
+hide_scroll=true
+insensitive=true
+no_actions=true
+location=center
+width=1000
+height=400

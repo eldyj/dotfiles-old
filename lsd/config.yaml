@@ -1,0 +1,39 @@
+classic: false
+blocks:
+  # - permission
+  - user
+  # - group
+  - size
+  #  - date
+  - name
+
+color:
+  when: always
+  theme: default
+
+date: date
+dereference: false
+
+icons:
+  when: always
+  theme: fancy
+  separator: " "
+
+indicators: false
+layout: oneline
+
+recursion:
+  enabled: false
+
+size: short
+permission: rwx
+sorting:
+  column: extension
+  reverse: false
+  dir-grouping: first
+
+no-symlink: false
+total-size: true
+hyperlink: always
+symlink-arrow: ⇒
+header: false

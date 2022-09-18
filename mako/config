@@ -1,0 +1,15 @@
+max-visible=3
+sort=-time
+font=JetBrains Mono 13
+width=360
+height=80
+border-radius=10
+padding=10
+max-icon-size=24
+background-color=#2e3440ff
+text-color=#d8dee9ff
+border-size=3
+border-color=#81a1c1ff
+actions=0
+ignore-timeout=true
+default-timeout=4500

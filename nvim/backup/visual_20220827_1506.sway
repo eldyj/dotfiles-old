@@ -1,0 +1,15 @@
+gaps inner 10
+gaps outer 5
+
+default_border pixel 3
+default_floating_border pixel 3
+
+client.focused #aa88ff #aa88ff #aa88ff #aa88ff
+client.unfocused #bb88aa #bb88aa #bb88aa #bb88aa
+client.urgent #bb88aa #bb88aa #bb88aa #bb88aa
+
+set $gset gsettings set 
+
+exec_always {
+ WhiteSur-Dark
+}

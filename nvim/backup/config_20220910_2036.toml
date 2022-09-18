@@ -1,0 +1,57 @@
+# Config for workstyle
+#
+# Format:
+# "pattern" = "icon"
+#
+# The pattern will be used to match against the application name, class_id or WM_CLASS.
+# The icon will be used to represent that application.
+#
+# Note if multiple patterns are present in the same application name,
+# precedence is given in order of apparition in this file.
+"alacritty" = ""
+"kitty" = ""
+"foot" = ""
+"termit" = ""
+"konsole" = ""
+"terminal" = ""
+"bash" = ""
+"github" = ""
+"rust" = ""
+"google" = ""
+"bing" = ""
+"duckduckgo" = ""
+"searx" = ""
+"discord" = ""
+"nerd fonts" = ""
+"firefox" = ""
+"waterfox" = ""
+"chrome" = ""
+"vivaldi" = ""
+"qutebrowser" = ""
+"opera" = ""
+"thunar" = ""
+"pcmanfm" = ""
+"caja" = ""
+"nautilus" = ""
+"dolphin" = ""
+"ranger" = ""
+"nnn" = ""
+"xarchiver" = ""
+"engrampa" = ""
+"file-roller" = ""
+"nvim" = ""
+"vim" = ""
+"vimiv" = ""
+"imv" = ""
+"imp" = ""
+"mpv" = ""
+"mplayer" = ""
+"vlc" = ""
+"musikcube" = ""
+"spotify" = ""
+"spotify" = ""
+"nwg-look" = "漣"
+"viber" = ""
+[other]
+fallback_icon = ""
+deduplicate_icons = true

@@ -1,0 +1,64 @@
+#window
+{
+	background-color: #2e3440;
+	font-size: 18px;
+	font-family: JetBrains Mono;
+  border-radius: 0.63rem;
+  border: 3px #81a1c1 solid;
+}
+
+#outer-box
+{
+	margin: 3px;
+}
+
+#input
+{
+	border: none;
+  outline: none;
+  padding: 5px;
+	background-color: transparent;
+	color: #81a1c1;
+	margin: 3px;
+}
+
+#input image:first-child
+{
+	margin-left: -100px;
+}
+
+#input image:last-child
+{
+	margin-right: -100px;
+}
+
+#entry
+{
+	color: #d8dee9;
+}
+
+#entry:selected
+{
+	background-color: #3b4252;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+
+#text:selected
+{
+	color: #81a1c1;
+}
+
+#img
+{
+	margin-right: 5px;
+	margin-left: 3px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+#text
+{
+	margin-left: 3px;
+}

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Webcord
+Comment=discord
+Icon=discord
+Terminal=false
+Exec=/usr/share/apps/osu.AppImage
+Categories=Internet;

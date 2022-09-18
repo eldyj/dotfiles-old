@@ -1,0 +1,13 @@
+set $mod Mod4
+set $killorexec ~/.config/sway/execorkill.sh
+set $shotkey Home
+set $left h
+set $down j
+set $up k
+set $right l
+set $term kitty
+set $menu $killorexec wofi
+set $logmenu $killorexec wlogout
+set $explorer thunar
+set $browser waterfox-g
+set $bind bindsym --to-code

@@ -1,0 +1,40 @@
+[flags]
+hide_avg_cpu = true
+dot_marker = true
+left_legend = true
+current_usage = true
+group_processes = true
+regex = true
+temperature_type = "c"
+hide_time = true
+battery = false
+color = "nord"
+mem_as_value = true
+#tree = true
+show_table_scroll_position = true
+process_command = false
+network_use_binary_prefix = false
+network_use_bytes = false
+network_use_log = false
+
+[[row]]
+ ratio=15
+ [[row.child]]
+ type="cpu"
+[[row]]
+   ratio=15
+   [[row.child]]
+     ratio=4
+     type="mem"
+   [[row.child]]
+     ratio=4
+      type="temp"
+#      [[row.child.child]]
+#        type="disk"
+[[row]]
+ ratio=40
+#  [[row.child]]
+#    type="net"
+ [[row.child]]
+   type="proc"
+   default=true

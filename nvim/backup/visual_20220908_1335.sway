@@ -1,0 +1,17 @@
+output * bg ~/.config/sway/wallpaper.jpg fill
+
+gaps inner 10
+gaps outer 5
+
+default_border pixel 3
+default_floating_border pixel 3
+
+client.focused #88bbff #88bbff #88bbff #88bbff
+client.unfocused #ffbb88 #ffbb88 #ffbb88 #ffbb88
+client.urgent #bb88aa #bb88aa #bb88aa #bb88aa
+
+set $gset 'gsettings set org.gnome.desktop.interface'
+
+#exec_always $gset gtk-theme 'WhiteSur-Dark'
+#exec_always $gset icon-theme 'WhiteSur-grey-dark'
+#exec_always $gset cursor-theme 'volantes_cursors'

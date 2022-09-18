@@ -1,0 +1,5 @@
+require 'main'
+require 'plugins'
+require 'theme'
+require 'bindings'
+require 'settings'

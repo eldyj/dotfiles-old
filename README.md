@@ -1,4 +1,24 @@
-hi, its my dotfiles<br>
+# hi, its my dotfiles
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="screenshot.png" alt="some terminals" style="width:400px" />
+    </td>
+    <td>
+      <img src="screenshot2.png" alt="menu" style="width:400px" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screenshot3.png" alt="logout menu" style="width:400px"/>
+    </td>
+    <td>
+      <img src="screenshot4.png" alt="locked look" style="width:400px"/>
+    </td>
+  </tr>
+</table>
+
 ```yaml
 OS: debian sid
 WM: hyprland
@@ -21,7 +41,3 @@ programs:
   archiver: xarchiver
   screenshots: grim + slurp
 ```
-![some terminals](screenshot.png)
-![menu](screenshot2.png)
-![logout menu](screenshot3.png)
-![locked look](screenshot4.png)

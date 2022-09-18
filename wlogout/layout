@@ -1,6 +1,6 @@
 {
     "label" : "lock",
-    "action" : "swaylock",
+    "action": "~/.config/wlogout/logout.sh"
     "text" : "Lock",
     "keybind" : "l"
 }

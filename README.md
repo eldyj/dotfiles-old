@@ -18,12 +18,8 @@ programs:
   image_viewer: vimiv
   file_manager: thunar
   archiver: xarchiver
-  screenshots: [
-    grim,
-    slurp
-  ]
+  screenshots: grim + slurp
 ```
-<br>
 ![screenshot](screenshot.png)
 ![screenshot2](screenshot2.png)
 ![screenshot3](screenshot3.png)

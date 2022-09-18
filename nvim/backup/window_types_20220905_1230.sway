@@ -1,2 +1,0 @@
-for_window [window_type="dialog"] floating enable
-for_window [window_type="menu"] floating enable

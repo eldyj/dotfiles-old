@@ -1,5 +1,0 @@
-input type:keyboard {
-  #xkb_layout us,ru,ua
-  xkb_layout us,ua
-  xkb_options 
-}

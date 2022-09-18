@@ -1,3 +1,0 @@
-exec mako
-exec pulseaudio
-exec_always

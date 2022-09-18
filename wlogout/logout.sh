@@ -1,6 +1,5 @@
 swaylock \
 --screenshots \
---clock \
 --indicator \
 --indicator-radius 75 \
 --indicator-thickness 6 \
